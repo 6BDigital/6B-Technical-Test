@@ -1,4 +1,8 @@
-# 6B – Technical Test
+<div style="width:100%; background-color:#005EB8; padding:32px 0; text-align:center; margin-bottom:24px;">
+  <img src="https://dashboard.6b.digital/storage/images/6B%20White.png" alt="6B Logo" style="max-height:70px;" />
+</div>
+This is a fictitious client and the requirements below form part of a technical assessment. The exercise is designed to evaluate your approach to problem solving, code quality, and system design rather than to represent a real production system.
+
 
 ## Overview
 SixBee HealthTech is a healthcare technology company operating in West Yorkshire. Currently, all appointments are managed over the phone and manually entered by a practice receptionist.
@@ -17,6 +21,7 @@ SixBee HealthTech would like to automate this process.
 
 ### Nice to Have
 - Tailwind styling
+- Containerised setup (e.g. Docker / Docker Compose)
 - Unit tests
 
 ## Patient Facing Form
@@ -83,6 +88,8 @@ Each row should include:
   - Functional for users  
   - Maintainable for developers  
   - Easy to extend in future  
+
+- Use of Coding agents is neither discouraged or encouraged.  We believe in the right tool for the right job.  Our only requirement is that you must be able to justify and explain your architectural decisions
 
 - Aim to meet the core requirements rather than over engineering  
 
