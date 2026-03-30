@@ -1,6 +1,9 @@
-<div style="width:100%; background-color:#005EB8; padding:32px 0; text-align:center; margin-bottom:24px;">
-  <img src="https://dashboard.6b.digital/storage/images/6B%20White.png" alt="6B Logo" style="max-height:70px;" />
-</div>
+<p align="left">
+  <a href="https://6b.digital" target="_blank">
+    <img src="https://dashboard.6b.digital/storage/images/logo.png" alt="6B Digital" width="80" />
+  </a>
+</p>
+
 This is a fictitious client and the requirements below form part of a technical assessment. The exercise is designed to evaluate your approach to problem solving, code quality, and system design rather than to represent a real production system.
 
 
