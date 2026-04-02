@@ -19,8 +19,8 @@ SixBee HealthTech would like to automate this process.
 5. Provide functionality to edit and approve appointments  
 
 ## Technology Requirements
-- The system should be built using a tech stack of your choice, preferably .NET or Node,js.   
-- The database should be **MySQL**
+- The system should be built using a tech stack of your choice, preferably .NET, PHP or Node,js. We also accept Java or Python.    
+- The database should use MySQL, MSSQL or PostgreSQL.
 
 ### Nice to Have
 - Tailwind styling
