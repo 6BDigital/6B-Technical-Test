@@ -12,7 +12,7 @@ SixBee HealthTech is a healthcare technology company operating in West Yorkshire
 SixBee HealthTech would like to automate this process.
 
 ## Aims
-1. Automate a patient appointment booking system  
+1. Build a patient appointment booking system  
 2. Create a patient facing form for appointments  
 3. Build a simple practice admin area behind a login screen  
 4. Display appointments in a table view ordered by date  
